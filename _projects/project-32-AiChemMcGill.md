@@ -7,11 +7,9 @@ team_leads:
 
 # Comment these lines by prepending the pound symbol (#) to each line to hide these elements
 contributors:
-  - Alexander Al-Feghali
   - Jérôme Genzling
   - Nicolas Gastellu
-  - Tao Liu
-  - Sylvester Zg
+  - Sylvester Zhang
 
 # github: AC-BO-Hackathon/<your-repo-name>
 # youtube_video: <your-video-id>
